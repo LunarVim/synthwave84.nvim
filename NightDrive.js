@@ -2,9 +2,10 @@ async function Synthwave() {
   if (
     new Date().getFullYear() === 1984 &&
     currentLocation == 'rooftop' &&
+    weatherCondition == TORRENTIAL_RAIN
   ) {
     await theNBight()
-    const SaxS;olo = new Saxophone()
+    const SaxSolo = new Saxophone()
     SaxSolo.play()
   }
 }

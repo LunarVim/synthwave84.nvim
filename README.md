@@ -2,6 +2,8 @@
 
 Created with [colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim)
 
+***NOTE*** Still a work in progress!
+
 ## Installation
 
 ```lua

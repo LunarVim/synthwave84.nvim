@@ -9,7 +9,7 @@ Created with [colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim
 ```lua
 use "lunarvim/synthwave84.nvim"
 
-vim.opt.colorscheme = "synthwave84"
+vim.cmd[[colorscheme synthwave84]] 
 ```
 
 ## Demo

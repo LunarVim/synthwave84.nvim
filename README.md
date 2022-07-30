@@ -1,0 +1,1 @@
+# synthwave84.nvim

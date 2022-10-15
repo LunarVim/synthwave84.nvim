@@ -1,4 +1,5 @@
 lua << EOF
-local synthwave84 = require("synthwave84")
-synthwave84.setup({})
+vim.o.termguicolors = true
+vim.g.colors_name = 'synthwave84'
+require('synthwave84').load()
 EOF
